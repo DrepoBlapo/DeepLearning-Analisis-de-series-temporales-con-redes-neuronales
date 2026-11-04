@@ -1,4 +1,6 @@
-# DeepLearning-Analisis-de-series-temporales-con-redes-neuronales
+![Banner](banner/banner_github.png)
+
+## Proyecto
 
 _ES_:
 Notebook práctico para aprender sobre la arquitectura y aplicación de redes neuronales recurrentes (RNN) sobre series temporales.
